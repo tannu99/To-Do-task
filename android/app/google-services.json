@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1022241950588",
+    "project_id": "alphaApp-55509",
+    "storage_bucket": "alphaApp-55509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022241950588:android:c2efb1cacae1246b6332f9",
+        "android_client_info": {
+          "package_name": "com.alphaApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022241950588-ustetmivdu1s7flkp9ncrv5ijtupm3sh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alphaApp",
+            "certificate_hash": "aa737bdeca72b3ca57e3d5c6d5c466f4c323983f"
+          }
+        },
+        {
+          "client_id": "1022241950588-4dfrc16ms1llha50mmr5r7hp0kg4h2pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMr4Tr_SLPxz65lETdgg6J_yyJkq5D8Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022241950588-4dfrc16ms1llha50mmr5r7hp0kg4h2pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
